@@ -6,7 +6,7 @@ Operations production lead by night, building toward AI engineering. Self-taught
 
 **Start here:** my [portfolio index](https://github.com/Spendry/portfolio)
 
-**What I build**
+**What I build** 
 
 - **Frameworks:** formal systems, mathematical frameworks, and algorithm design, from benchmarked sorting algorithms to set theories and AI architecture models
 - **Data & analysis:** reporting systems, forecasting tools, and decision frameworks built with Power BI, SQL, Python, and Excel

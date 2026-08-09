@@ -27,5 +27,6 @@ Operations production lead by night, building toward AI engineering. Self-taught
 | PoE Market Pipeline | API to Postgres to FastAPI to Power BI (repo coming soon) |
 | [Ensemble Spread Is Not Posterior Uncertainty](https://github.com/Spendry/ensemble-spread) | A width-invariance test on deep-ensemble uncertainty, bridging two papers |
 | [The Coupling Clip](https://github.com/Spendry/coupling-clip) | Why better evidence rarely changes a mind: a framework and its plain-language companion |
+| [Repost](https://github.com/Spendry/repost) | A gamified social network where attention is survival: a concept with an interactive mockup |
 
 <!-- Site line returns after degree work: halfhumandraft.com -->

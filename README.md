@@ -25,7 +25,6 @@ Operations production lead by night, building toward AI engineering. Self-taught
 | [Analyst Operating Manual](https://github.com/Spendry/analyst-operating-manual) | An operating manual for learning the analyst job by doing it |
 | [Pendry Sort](https://github.com/Spendry/pendry-sort) | Twelve sorting algorithms from first principles, benchmarked |
 | PoE Market Pipeline | API to Postgres to FastAPI to Power BI (repo coming soon) |
-| [Redistribution Field Theory](https://github.com/Spendry/redistribution-field-theory) | A physics framework tested against supernova, chronometer, and BAO data |
 | [Ensemble Spread Is Not Posterior Uncertainty](https://github.com/Spendry/ensemble-spread) | A width-invariance test on deep-ensemble uncertainty, bridging two papers |
 | [The Coupling Clip](https://github.com/Spendry/coupling-clip) | Why better evidence rarely changes a mind: a framework and its plain-language companion |
 

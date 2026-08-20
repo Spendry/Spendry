@@ -7,7 +7,6 @@ Operations production lead by night, building toward AI engineering. Self-taught
 **Start here:** my [portfolio index](https://github.com/Spendry/portfolio)
 
 **What I build** 
-
 - **Frameworks:** formal systems, mathematical frameworks, and algorithm design, from benchmarked sorting algorithms to set theories and AI architecture models
 - **Data & analysis:** reporting systems, forecasting tools, and decision frameworks built with Power BI, SQL, Python, and Excel
 - **Interactive tools:** browser-based explainers, dashboards, and simulators that make abstract ideas tangible
@@ -17,8 +16,10 @@ Operations production lead by night, building toward AI engineering. Self-taught
 
 **Stack:** Python · NumPy · JavaScript · SQL · C · Verilog · Yosys · OpenLane · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
 
-**A few things I've built**
+**Contributions:** 
+- **CircuitVerse:** 8 Verilog importer defects root-caused, fixed upstream in PR #7797
 
+**A few things I've built**
 | Project | One line |
 |---|---|
 | [Job Postings Dashboard](https://github.com/Spendry/job-postings-dashboard) | Power BI analysis of 478K tech job postings from 2024 |

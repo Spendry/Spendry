@@ -17,7 +17,7 @@ Operations production lead by night, building toward AI engineering. Self-taught
 **Stack:** Python · NumPy · JavaScript · SQL · C · Verilog · Yosys · OpenLane · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
 
 **Contributions** 
-- **CircuitVerse:** 8 Verilog importer defects root-caused, fixed upstream in PR #7797
+- **CircuitVerse:** 8 Verilog importer defects root-caused, fixed upstream in [PR #7797](https://github.com/CircuitVerse/CircuitVerse/pull/7797)
 
 **A few things I've built**
 | Project | One line |

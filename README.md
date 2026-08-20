@@ -14,7 +14,7 @@ Operations production lead by night, building toward AI engineering. Self-taught
 - **Full-stack & infrastructure:** web apps, REST APIs, PostgreSQL, Node.js services, and self-hosted, self-secured servers
 - **Guided AI development:** guided AI project development and iteration to develop, stress-test, and formalize original ideas
 
-**Stack:** Python · NumPy · JavaScript · SQL · C · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
+##Stack##: Python · NumPy · JavaScript · SQL · C · Verilog · Yosys · OpenLane · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
 
 **A few things I've built**
 

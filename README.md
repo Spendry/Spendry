@@ -13,8 +13,9 @@ Operations production lead by night, building toward AI engineering. Self-taught
 - **Interactive tools:** browser-based explainers, dashboards, and simulators that make abstract ideas tangible
 - **Full-stack & infrastructure:** web apps, REST APIs, PostgreSQL, Node.js services, and self-hosted, self-secured servers
 - **Guided AI development:** guided AI project development and iteration to develop, stress-test, and formalize original ideas
+- **Digital hardware:** RTL design in Verilog, synthesis and physical design through OpenLane on the sky130 open PDK — DRC/LVS-clean layouts with measured area, timing and power
 
-**Stack**: Python · NumPy · JavaScript · SQL · C · Verilog · Yosys · OpenLane · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
+**Stack:** Python · NumPy · JavaScript · SQL · C · Verilog · Yosys · OpenLane · Power BI · DAX · PostgreSQL · Node.js · Ubuntu · Cloudflare · Git
 
 **A few things I've built**
 
